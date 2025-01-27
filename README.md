@@ -91,29 +91,15 @@ The app uses a custom font (LexendGiga). Make sure to download the font and plac
 
 ### Screenshots:
 
-### Screenshots:
+<img src="https://github.com/user-attachments/assets/4e100ef5-c1da-4438-92e6-070b1f9a28ba" width="400" />
 
-<img src="https://github.com/user-attachments/assets/2f52f671-93ca-432e-8cb9-ea7a52f0868c" width="300" />
+<img src="https://github.com/user-attachments/assets/22c8932a-32ca-4e39-929d-44ad36da2feb" width="400" />
 
-<img src="https://github.com/user-attachments/assets/bbd53c18-061f-446e-aa6f-3cd04c44abd8" width="300" />
+<img src="https://github.com/user-attachments/assets/edebfac9-2f8b-4287-8acd-07b0988678c9" width="400" />
 
-<img src="https://github.com/user-attachments/assets/4e100ef5-c1da-4438-92e6-070b1f9a28ba" width="300" />
+<img src="https://github.com/user-attachments/assets/7b3ea57a-62fb-4935-912d-345b1486ffad" width="400" />
 
-<img src="https://github.com/user-attachments/assets/22c8932a-32ca-4e39-929d-44ad36da2feb" width="300" />
-
-<img src="https://github.com/user-attachments/assets/edebfac9-2f8b-4287-8acd-07b0988678c9" width="300" />
-
-<img src="https://github.com/user-attachments/assets/7b3ea57a-62fb-4935-912d-345b1486ffad" width="300" />
-
-<img src="https://github.com/user-attachments/assets/3224228a-79ea-4f5c-98a0-ce0f2fde037c" width="300" />
+<img src="https://github.com/user-attachments/assets/3224228a-79ea-4f5c-98a0-ce0f2fde037c" width="400" />
 
 
-![Screenshot_2025-01-27-22-03-31-01_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/4e100ef5-c1da-4438-92e6-070b1f9a28ba)
 
-![Screenshot_2025-01-27-22-03-34-65_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/22c8932a-32ca-4e39-929d-44ad36da2feb)
-
-![Screenshot_2025-01-27-22-03-41-69_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/edebfac9-2f8b-4287-8acd-07b0988678c9)
-
-![Screenshot_2025-01-27-22-04-00-00_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/7b3ea57a-62fb-4935-912d-345b1486ffad)
-
-![Screenshot_2025-01-27-22-04-41-97_f73b71075b1de7323614b647fe394240 (1)](https://github.com/user-attachments/assets/3224228a-79ea-4f5c-98a0-ce0f2fde037c)
