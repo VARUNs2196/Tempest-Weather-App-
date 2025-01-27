@@ -89,3 +89,14 @@ The app uses a custom font (LexendGiga). Make sure to download the font and plac
 - **React Native**: Core framework for building the app.
 
 
+### Screenshots:
+
+![image](https://github.com/user-attachments/assets/2f52f671-93ca-432e-8cb9-ea7a52f0868c)
+
+![image](https://github.com/user-attachments/assets/bbd53c18-061f-446e-aa6f-3cd04c44abd8)
+
+![Screenshot_2025-01-27-22-03-41-69_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/edebfac9-2f8b-4287-8acd-07b0988678c9)
+
+![Screenshot_2025-01-27-22-03-41-69_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/eea67bf1-8ccc-43aa-88bc-84a00e99809d)
+
+![Screenshot_2025-01-27-22-04-41-97_f73b71075b1de7323614b647fe394240 (1)](https://github.com/user-attachments/assets/3224228a-79ea-4f5c-98a0-ce0f2fde037c)
